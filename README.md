@@ -10,7 +10,7 @@ Output: m
 Constraints: same as 1.a.
 Note: Values of m, c, d, n will be taken from 1.a. for evaluation.
 
-Calculation of the value of e, and how it will always remain coprime to φ.
+# Calculation of the value of e, and how it will always remain coprime to φ.
 e = gmpy2.next_prime(q)
 This method to calculate ‘e’ will always return a coprime, let’s see how.
 To Prove – e is coprime to Φ.
